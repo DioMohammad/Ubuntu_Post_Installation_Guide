@@ -60,3 +60,7 @@ Here are some recommended apps:<br>
   ```
   sudo apt install texstudio
   ```
+- **Persian Fonts** → Here you can add Persian fonts to your Linux (Thanks to [fzerorubigd](https://github.com/fzerorubigd))
+  ```
+  bash -c "$(curl -fsSL https://raw.githubusercontent.com/fzerorubigd/persian-fonts-linux/master/farsifonts.sh)"
+  ```
