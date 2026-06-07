@@ -64,7 +64,7 @@ Here are some recommended apps:<br>
   ```
   bash -c "$(curl -fsSL https://raw.githubusercontent.com/fzerorubigd/persian-fonts-linux/master/farsifonts.sh)"
   ```
-- **Foliate** → Read books in style! Has varies format support
+- **Foliate** → Read books in style! Has varies format support (Thanks to [johnfactotum](https://github.com/johnfactotum/foliate))
   ```
   sudo apt install foliate
   ```
