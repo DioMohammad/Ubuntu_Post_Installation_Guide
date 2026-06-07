@@ -1,5 +1,5 @@
 # Ubuntu_Post_Installation_Guide
-This repository provides a simple guide for new users of **Ubuntu 24.04**. 
+This repository provides a simple guide for new users of **Ubuntu 26.04**. 
 
 ## 1. Update and Upgrade Your System
 Always update your system after installation to get the latest security patches and software updates:
@@ -63,4 +63,8 @@ Here are some recommended apps:<br>
 - **Persian Fonts** → Here you can add Persian fonts to your Linux (Thanks to [fzerorubigd](https://github.com/fzerorubigd))
   ```
   bash -c "$(curl -fsSL https://raw.githubusercontent.com/fzerorubigd/persian-fonts-linux/master/farsifonts.sh)"
+  ```
+- **Foliate** → Read books in style! Has varies format support
+  ```
+  sudo apt install foliate
   ```
