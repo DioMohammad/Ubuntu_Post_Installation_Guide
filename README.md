@@ -68,3 +68,11 @@ Here are some recommended apps:<br>
   ```
   sudo apt install foliate
   ```
+## 6. Install Useful Gnome Extensions
+- **Vitals** → A glimpse into your computer's temperature, voltage, fan speed, memory usage and CPU load. (Thanks to [corecoding](https://github.com/corecoding))
+- **Blur My Shell** → Adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview. (Thanks to [aunetx](https://github.com/aunetx))
+- **Clipboard Indicator** → Clipboard Manager (Thanks to [Tudmotu](https://github.com/Tudmotu))
+- **Caffeine** → Disable the screensaver and auto suspend (Thanks to [eonpatapon](https://github.com/eonpatapon))
+- **Bing Wallpaper** → Sync your wallpaper to today's Microsoft Bing image of the day. (Thanks to [neffo](https://github.com/neffo))
+- **Apps Menu** → Add a category-based menu for apps on topbar.
+- **Simple Break Reminder** → It's important to remember to take a break! (Thanks to [CastilloDel](https://github.com/CastilloDel))
