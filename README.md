@@ -77,3 +77,4 @@ Here are some recommended apps:<br>
 - **Apps Menu** → Add a category-based menu for apps on topbar.
 - **Simple Break Reminder** → It's important to remember to take a break! (Thanks to [CastilloDel](https://github.com/CastilloDel))
 - **NoteDock** → A lightweight scratchpad in the GNOME Shell top panel. Notes are stored locally. (Thanks to [joquers](https://github.com/joquers))
+- **TaskDock** → A lightweight task list in the GNOME Shell top panel. (Thanks to [joquers](https://github.com/joquers))
