@@ -76,3 +76,4 @@ Here are some recommended apps:<br>
 - **Bing Wallpaper** → Sync your wallpaper to today's Microsoft Bing image of the day. (Thanks to [neffo](https://github.com/neffo))
 - **Apps Menu** → Add a category-based menu for apps on topbar.
 - **Simple Break Reminder** → It's important to remember to take a break! (Thanks to [CastilloDel](https://github.com/CastilloDel))
+- **NoteDock** → A lightweight scratchpad in the GNOME Shell top panel. Notes are stored locally. (Thanks to [joquers](https://github.com/joquers))
